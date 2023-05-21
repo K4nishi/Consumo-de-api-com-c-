@@ -1,0 +1,17 @@
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\bin\Debug\net7.0\codigos c#.exe
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\bin\Debug\net7.0\codigos c#.deps.json
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\bin\Debug\net7.0\codigos c#.runtimeconfig.json
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\bin\Debug\net7.0\codigos c#.dll
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\bin\Debug\net7.0\codigos c#.pdb
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.csproj.AssemblyReference.cache
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.AssemblyInfoInputs.cache
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.AssemblyInfo.cs
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.csproj.CoreCompileInputs.cache
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.dll
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\refint\codigos c#.dll
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.pdb
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.genruntimeconfig.cache
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\ref\codigos c#.dll
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\davit_p0x3pa6\Downloads\codigos c#\obj\Debug\net7.0\codigos c#.csproj.CopyComplete
